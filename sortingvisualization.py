@@ -133,7 +133,7 @@ def generate():
 
 #Making a window using the Tk widget
 window = tk.Tk()
-window.title('Sorting Visualizer - By Raj D.')
+window.title('Sorting Visualizer - By Divya Wandhare')
 window.geometry('600x450')
 
 #Making a Canvas within the window to display contents
